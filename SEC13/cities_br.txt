@@ -1,0 +1,17 @@
+Brasília: 3039444
+São Goncalo: 1049826
+Rio de Janeiro: 6520266
+Manaus: 2130264
+Belém: 1452275
+Campinas: 1182429
+Goiânia: 1466105
+Porto Alegre: 184941
+Curitiba: 1908359
+Recife: 1633697
+Belo Horizonte: 2523794
+Salvador: 2953986
+Maceió: 1029129
+São Paulo: 12106920
+Fortaleza: 2627482
+Guarulhos: 1349113
+São Luis: 1091868
